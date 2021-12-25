@@ -1,2 +1,3 @@
-# landing-page
-Landing Page of T3mpt solution
+# T3mplt - Landing Page
+
+Landing Page of T3mplt solution
